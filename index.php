@@ -1,2 +1,2 @@
 <?php
-   echo "This is a test for Git";
+   echo "study,work,eat,drink,sleep";
